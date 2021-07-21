@@ -1,4 +1,4 @@
-# Tamagotchi
+# Tamagotchi :dog:
 Practice of Object-oriented programming with a game.
 - [Context](https://bandai.com.mx/blog/que-es-tamagotchi/)
 
